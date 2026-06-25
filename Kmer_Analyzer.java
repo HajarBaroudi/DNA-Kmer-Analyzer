@@ -1,7 +1,5 @@
 package kmerAnalyzer;
 
-//THIS ONE
-
 import java.util.*;
 
 public class Kmer_Analyzer{
